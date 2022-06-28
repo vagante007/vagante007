@@ -1,0 +1,4 @@
+- 👋 olá meu nome é @vagante007
+- 👍 meu email de contato é fabiano.irenodacosta.junior@escola.pr.gov.br
+- 👀 eu estou interesado em aprender novas linguagens
+- 🌱 eu estoou aprendendo a progamar recentemente a liguagem do scratch
